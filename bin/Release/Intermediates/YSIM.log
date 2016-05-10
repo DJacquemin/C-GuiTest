@@ -1,0 +1,39 @@
+﻿Build started 10/05/2016 21:19:47.
+     1>Project "E:\Game\YSIM\YSIM\YSIM\YSIM.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Programmes\Visual Studio 2013 Community\VC\bin\CL.exe /c /IE:\Game\YSIM\YSIM\dependencies\SFML\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D SFML_STATIC /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Game\YSIM\YSIM\bin\Release\Intermediates\\" /Fd"E:\Game\YSIM\YSIM\bin\Release\Intermediates\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BatchRenderer.cpp Button.cpp Collision.cpp CollisionMap.cpp Context.cpp CustomListItem.cpp Label.cpp PoopCollector.cpp StaticElement.cpp UIHandler.cpp UIList.cpp Ypim.cpp
+         BatchRenderer.cpp
+     1>BatchRenderer.cpp(7): warning C4390: ';' : empty controlled statement found; is this the intent?
+         Button.cpp
+         Collision.cpp
+         CollisionMap.cpp
+     1>CollisionMap.cpp(10): warning C4018: '<' : signed/unsigned mismatch
+         Context.cpp
+         CustomListItem.cpp
+         Label.cpp
+         PoopCollector.cpp
+         StaticElement.cpp
+         UIHandler.cpp
+         UIList.cpp
+         Ypim.cpp
+       Link:
+         E:\Programmes\Visual Studio 2013 Community\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Game\YSIM\YSIM\bin\Release\YPIM.exe" /NOLOGO /LIBPATH:E:\Game\YSIM\YSIM\dependencies\SFML\lib "sfml-system-s.lib" "sfml-window-s.lib" "sfml-graphics-s.lib" "sfml-audio-s.lib" winmm.lib gdi32.lib opengl32.lib sndfile.lib openal32.lib glew.lib freetype.lib jpeg.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Game\YSIM\YSIM\bin\Release\YPIM.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Game\YSIM\YSIM\bin\Release\YPIM.lib" /MACHINE:X86 /SAFESEH E:\Game\YSIM\YSIM\bin\Release\Intermediates\BatchRenderer.obj
+         E:\Game\YSIM\YSIM\bin\Release\Intermediates\Button.obj
+         E:\Game\YSIM\YSIM\bin\Release\Intermediates\Collision.obj
+         E:\Game\YSIM\YSIM\bin\Release\Intermediates\CollisionMap.obj
+         E:\Game\YSIM\YSIM\bin\Release\Intermediates\Context.obj
+         E:\Game\YSIM\YSIM\bin\Release\Intermediates\CustomListItem.obj
+         E:\Game\YSIM\YSIM\bin\Release\Intermediates\Label.obj
+         E:\Game\YSIM\YSIM\bin\Release\Intermediates\PoopCollector.obj
+         E:\Game\YSIM\YSIM\bin\Release\Intermediates\StaticElement.obj
+         E:\Game\YSIM\YSIM\bin\Release\Intermediates\UIHandler.obj
+         E:\Game\YSIM\YSIM\bin\Release\Intermediates\UIList.obj
+         E:\Game\YSIM\YSIM\bin\Release\Intermediates\Ypim.obj
+         Generating code
+         Finished generating code
+         YSIM.vcxproj -> E:\Game\YSIM\YSIM\bin\Release\YPIM.exe
+     1>Done Building Project "E:\Game\YSIM\YSIM\YSIM\YSIM.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.18

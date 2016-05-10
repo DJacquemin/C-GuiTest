@@ -1,0 +1,27 @@
+﻿Build started 10/05/2016 21:14:07.
+     1>Project "E:\Game\YSIM\YSIM\YSIM\YSIM.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Programmes\Visual Studio 2013 Community\VC\bin\CL.exe /c /IE:\Game\YSIM\YSIM\dependencies\SFML\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D SFML_STATIC /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Game\YSIM\YSIM\bin\Debug\Intermediates\\" /Fd"E:\Game\YSIM\YSIM\bin\Debug\Intermediates\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Collision.cpp UIHandler.cpp UIList.cpp
+         Skipping... (no relevant changes detected)
+         UIList.cpp
+         UIHandler.cpp
+         Collision.cpp
+       Link:
+         E:\Programmes\Visual Studio 2013 Community\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Game\YSIM\YSIM\bin\Debug\YPIM.exe" /INCREMENTAL /NOLOGO /LIBPATH:E:\Game\YSIM\YSIM\dependencies\SFML\lib "sfml-graphics-s-d.lib" "sfml-window-s-d.lib" "sfml-system-s-d.lib" "sfml-audio-s-d.lib" winmm.lib gdi32.lib opengl32.lib sndfile.lib openal32.lib glew.lib freetype.lib jpeg.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Game\YSIM\YSIM\bin\Debug\YPIM.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Game\YSIM\YSIM\bin\Debug\YPIM.lib" /MACHINE:X86 E:\Game\YSIM\YSIM\bin\Debug\Intermediates\BatchRenderer.obj
+         E:\Game\YSIM\YSIM\bin\Debug\Intermediates\Button.obj
+         E:\Game\YSIM\YSIM\bin\Debug\Intermediates\Collision.obj
+         E:\Game\YSIM\YSIM\bin\Debug\Intermediates\CollisionMap.obj
+         E:\Game\YSIM\YSIM\bin\Debug\Intermediates\Context.obj
+         E:\Game\YSIM\YSIM\bin\Debug\Intermediates\CustomListItem.obj
+         E:\Game\YSIM\YSIM\bin\Debug\Intermediates\Label.obj
+         E:\Game\YSIM\YSIM\bin\Debug\Intermediates\PoopCollector.obj
+         E:\Game\YSIM\YSIM\bin\Debug\Intermediates\StaticElement.obj
+         E:\Game\YSIM\YSIM\bin\Debug\Intermediates\UIHandler.obj
+         E:\Game\YSIM\YSIM\bin\Debug\Intermediates\UIList.obj
+         E:\Game\YSIM\YSIM\bin\Debug\Intermediates\Ypim.obj
+         YSIM.vcxproj -> E:\Game\YSIM\YSIM\bin\Debug\YPIM.exe
+     1>Done Building Project "E:\Game\YSIM\YSIM\YSIM\YSIM.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.08
